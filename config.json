@@ -1,0 +1,6 @@
+{
+"cities" : ["Moscow", "Berlin", "Paris"],
+  "number_of_cities" : 3,
+  "number_of_days" : 2,
+  "updating_frequency" : 500
+}
